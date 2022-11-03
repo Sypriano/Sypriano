@@ -3,8 +3,8 @@
 
 <h1 align="center"> Hi, I'm Francielly </h1>
 
-<p align="justify"> I'm a Data Scientist with background in Oceanography and Marine Geology, who reinvented herself through programming after 12 years in the academic field. I have been working with <i>Python</i> and <i>SQL</i> languages and currently learning <i>JavaScript</i>, <i>HTML5</i>, <i>CSS</i> and <i>React.js</i> skills.</p>
+<p align="justify"> I'm a Data Scientist with background in Oceanography and Marine Geology, who really enjoys tinkering in Python.</p>
 
-<p align="justify"> The raise of opportunities and inclusion for minorities makes me more passionate about technology. So I’m looking forward to collaborate on open-source projects and contribute more for the tech community. </p>
+<p align="justify"> I look forward to collaborate on open-source projects and to contribute enhancing diversity and inclusion in tech. </p>
 
 You can also reach me here: <a href="https://www.linkedin.com/in/francielly-monteiro/">LinkedIn</a> 
